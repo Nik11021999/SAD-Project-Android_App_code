@@ -1,5 +1,5 @@
 # SAD-Project-Android App code
-Android Application code of LightnigOrder project.
+Android Application code of LightningOrder project.
 
 ## What is LightningOrder?
 
